@@ -1,6 +1,6 @@
 {
-    "name": "Glow",
-    "description": "Glow cardano stakepool",
+    "name": "Glow Stake Pool",
+    "description": "Cardano stake pool",
     "ticker": "GLOW",
     "homepage": "https://cardano.xbglowx.com"
 }
