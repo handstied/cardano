@@ -1,0 +1,29 @@
+{
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Medford Lakes, NJ",
+        "social": {
+            "twitter_handle": "glowstake",
+            "telegram_handle": "xbglowx",
+            "facebook_handle": "glowstake",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": "xbglowx"
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "Two relays and one producer running on a 2 node k3s cluster with Gigabit internet",
+            "company": ""
+        }
+    }
+}
