@@ -2,5 +2,6 @@
   "name": "Glow Stake Pool",
   "description": "Glow",
   "ticker": "GLOW",
-  "homepage": "https://www.glowstake.com"
+  "homepage": "https://www.glowstake.com",
+  "extended": "https://www.glowstake.com/glow.extended-metadata.json"
 }
